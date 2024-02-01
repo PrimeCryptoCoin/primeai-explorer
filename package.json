@@ -2,7 +2,7 @@
   "name": "insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the primeaicoin network and build your own services with it.",
   "version": "1.0.3",
-  "repository": "git://github.com/PrimeAI/primeai-insight-block-explorer.git",
+  "repository": "git://github.com/PrimeCryptoCoin/primeai-explorer.git",
   "contributors": [
     {
       "name": "Under",
@@ -13,9 +13,9 @@
     "build": "bower install && grunt compile"
   },
   "bugs": {
-    "url": "https://github.com/PrimeAI/primeai-insight-block-explorer/issues"
+    "url": "https://github.com/PrimeCryptoCoin/primeai-explorer/issues"
   },
-  "homepage": "https://github.com/PrimeAI/primeai-insight-block-explorer",
+  "homepage": "https://github.com/PrimeCryptoCoin/primeai-explorer",
   "license": "MIT",
   "keywords": [
     "insight",
